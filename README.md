@@ -86,12 +86,14 @@ This will get the organic reports on the French database for these 3 websites.
 
 To get the .xls files, just go into the <b>/excel/</b> file and they will be there.
 
+<p align="center">
+  <img src="https://hugoakhtari.com/wp-content/uploads/2019/09/excel_export.png">
+</p>
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL v3 License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Wanna know more ? 
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+site
