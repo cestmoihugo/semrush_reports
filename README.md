@@ -96,4 +96,4 @@ This project is licensed under the GPL v3 License - see the [LICENSE.md](LICENSE
 
 ## Wanna know more ? 
 
-site
+https://hugoakhtari.com/automatisation-python-semrush/
